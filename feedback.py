@@ -1,4 +1,3 @@
-pip install ibm-watson
 import streamlit as st
 import pandas as pd
 import os
