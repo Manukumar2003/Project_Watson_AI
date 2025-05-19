@@ -1,4 +1,4 @@
-streamlit
-pandas
-openpyxl
-ibm-watson
+streamlit==1.45.1
+pandas==2.2.3
+openpyxl==3.1.2
+ibm-watson==6.0.0
