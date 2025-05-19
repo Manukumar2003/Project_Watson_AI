@@ -2,3 +2,4 @@ pip install streamlit
 pip install pandas
 pip install openpyxl
 pip install ibm-watson
+ibm-watson
