@@ -1,3 +1,4 @@
-pip install pandas
-pip install openpyxl
-pip install ibm-watson
+streamlit
+pandas
+openpyxl
+ibm-watson
